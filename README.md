@@ -7,7 +7,7 @@
 
 <p align="center">
   📫 akanish327@gmail.com &nbsp;|&nbsp;
-  <a href="www.linkedin.com/in/anish-koikude-883469365">LinkedIn</a> &nbsp;|&nbsp; <a href="https://akanish-portfolio.netlify.app/">Portfolio</a>
+  <a href="www.linkedin.com/in/anish-koikude-883469365">LinkedIn</a> &nbsp;
 </p>
 
 ---
